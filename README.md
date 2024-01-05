@@ -1,4 +1,4 @@
-# Monitor database using Prometheus and Grafana
+# Monitor database with Prometheus and Grafana
 
 ## [Click here to watch the video for demonstration.]()
 
