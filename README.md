@@ -1,6 +1,6 @@
 # Monitor database with Prometheus and Grafana
 
-## [Click here to watch the video for demonstration.]()
+## [Click here to watch the video for demonstration.](https://youtu.be/kGNpVMDEWiA)
 
 In this project, I have demonstrated How to :
 1. Create and Setup Prometheus and Grafana in the kubernetes cluster.
